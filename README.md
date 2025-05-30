@@ -8,7 +8,7 @@ ___
  ### 🤖 Linguagens e Tecnologia 
 <div style ="display : inline_block"><br>
  
-   <img align ="center" title ="Java" height ="30"  width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+   <img align ="center" title ="Javascript" height ="30"  width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
           
  <img align="center"   title="CSS" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
