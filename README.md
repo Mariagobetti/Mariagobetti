@@ -16,6 +16,7 @@ ___
     alt="Git" 
     title="Git"
     width="30px" 
+    style="padding-right: 10px;" 
     height ="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -25,15 +26,18 @@ ___
     alt="SASS" 
     title="SASS"
     width="30px" 
+      style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"  
     >
 
-
-   <img
-    align="left"
-    alt="Rstudio"
-    width="30px"
-    heigth="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
           
 
