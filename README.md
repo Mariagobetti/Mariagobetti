@@ -8,8 +8,7 @@ ___
  ### 😎 Linguagens e Tecnologia 
 <div style ="display : inline_block"><br>
  
- <img 
-    align="left" 
+ <img  
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
