@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🤖 Maria Luiza Gobeti 
 
-<!--
-**Mariagobetti/Mariagobetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheira De Software`**
+Oie! Me chamo Maria Luiza e sou estudante de Engenharia de Software. 
+São Paulo - Zona Sul 
+Sou apaixonada pelo mundo dos joguinhos online.
+___
+ ### 🤖 Linguagens e Tecnologia 
+<div style ="display : inline_block"><br>
+  <img  align="center" title="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img align="center"   title="CSS" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+ <img  align="center" title="Javascript" height ="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"/>
+ 
+          
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
