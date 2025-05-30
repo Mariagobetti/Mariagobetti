@@ -7,15 +7,6 @@ São Paulo - Zona Sul
 ___
  ### 😎 Linguagens e Tecnologia 
 <div style ="display : inline_block"><br>
- 
- <img  
-    alt="JavaScript" 
-     align ="left"
-    title="JavaScript"
-    width="30px" 
-    height ="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 
 
 
@@ -37,4 +28,13 @@ ___
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"  
     >
+
+
+   <img
+    align="left"
+    alt="Rstudio"
+    width="30px"
+    heigth="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
 
