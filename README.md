@@ -3,7 +3,7 @@
 **`Engenheira De Software`**
 Oie! Me chamo Maria Luiza e sou estudante de Engenharia de Software. 
 São Paulo - Zona Sul 
-Sou apaixonada pelo mundo dos joguinhos online.
+
 ___
  ### 🤖 Linguagens e Tecnologia 
 <div style ="display : inline_block"><br>
