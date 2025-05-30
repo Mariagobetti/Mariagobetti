@@ -10,6 +10,7 @@ ___
  
  <img  
     alt="JavaScript" 
+     align ="left"
     title="JavaScript"
     width="30px" 
     height ="40px" 
