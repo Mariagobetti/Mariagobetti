@@ -6,26 +6,10 @@ São Paulo - Zona Sul
 
 ___
  ### 😎 Linguagens e Tecnologia 
-<div style ="display : inline_block"><br>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-
-  <img
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  Java /Node.js
+  Javascript /Json 
+  Html/Css
+  Excel /Power bi
           
           
 
