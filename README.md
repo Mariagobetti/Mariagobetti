@@ -11,4 +11,4 @@ Repositório com os estudos e exercícios práticos que fiz durante o curso de F
 - [x] Tratamento de Erros: `try/except`
 - [x] Manipulação de Arquivos
 
-## 📂 Estrutura do Repositório
+
