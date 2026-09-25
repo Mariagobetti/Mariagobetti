@@ -29,17 +29,12 @@ Sou estudante de **Engenharia de Software (6º semestre)** focada em **Desenvolv
 <div align="center">
 
   #### Linguagens & Frameworks
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=java,spring,py,flask" />
+
+  <br />
 
   #### Infraestrutura, Cloud & Banco de Dados
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,postgres,mysql,git,github" />
 
 </div>
 
@@ -48,8 +43,8 @@ Sou estudante de **Engenharia de Software (6º semestre)** focada em **Desenvolv
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariagobetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariagobetti&layout=compact&theme=dracula&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariagobetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariagobetti&layout=compact&theme=dracula&hide=html,css" />
 </div>
 
 ---
